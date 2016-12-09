@@ -1,0 +1,125 @@
+.navbar-brand {
+    padding: 0px;
+}
+
+.navbar-brand {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.glyphicon.glyphicon-search.new {
+    color: #fff;
+}
+
+#button {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.collapse.navbar-collapse.new {
+    position: absolute;
+    top: 5px;
+    left: 60%;
+}
+
+.jumbotron {
+    background-color: #fff;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.jumbotron>h1 {
+    text-align: center;
+    color: #469bde;
+}
+
+.jumbotron>p {
+    text-align: center;
+}
+
+.media {
+    margin-bottom: 46px;
+}
+
+.alert {
+    margin-bottom: 0;
+}
+
+#ModalPage {
+    margin-bottom: 20px;
+}
+
+#DropDown,
+.dropdown-menu {
+    margin-bottom: 30px;
+}
+
+#newButton {
+    margin-bottom: 20px;
+}
+
+#newButton+.tooltip>.tooltip-inner {
+    background-color: #73AD21;
+    color: #FFFFFF;
+    border: 1px solid green;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.popover {
+    border: 2px dotted red;
+}
+
+
+/* Popover Header */
+
+.popover-title {
+    background-color: #73AD21;
+    color: #FFFFFF;
+    font-size: 28px;
+    text-align: center;
+}
+
+
+/* Popover Body */
+
+.popover-content {
+    background-color: coral;
+    color: #FFFFFF;
+    padding: 25px;
+}
+
+
+/* Popover Arrow */
+
+.arrow {
+    border-right-color: red !important;
+}
+
+#popOverbutton {
+    margin-bottom: 20px;
+}
+
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    width: 70%;
+    margin: auto;
+}
+
+.item {
+    width: 460;
+    height: 250;
+}
+
+#carousal {
+    margin-bottom: 30px;
+}
+
+.carousel-indicators .active {
+    background-color: black;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+}
